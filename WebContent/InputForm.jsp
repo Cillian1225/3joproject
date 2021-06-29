@@ -23,7 +23,7 @@
 </head>
 <body>
 	<div class="container">
-		<form action="inputProc.j" method="get">
+		<form action="inputProc.jsp" method="get">
 			<input type="text" name="name" placeholder="이름"> 
 			<input type="text" name="contact" placeholder="연락처"> 
 			<input type="submit" value=입력>
