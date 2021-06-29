@@ -36,7 +36,7 @@ $(function(){
 			<td align=center>ID
 			<td align=center>Name
 			<td align=center>Contact
-			<td align=center>Reg_date
+		
 	</tr>
 	
 
@@ -45,7 +45,7 @@ $(function(){
 			<td>${i.id}
 			<td>${i.name}
 			<td>${i.contact}
-			<td>${i.reg_date}
+			
 	</tr>
 	</c:forEach>
 	
