@@ -8,7 +8,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
 
-@WebServlet("/MemberController")
+@WebServlet("person/modify.jsp")
 public class MemberController extends HttpServlet {
 
    
